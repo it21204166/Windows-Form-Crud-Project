@@ -1,0 +1,4 @@
+﻿CREATE TABLE admin
+(
+	id INT PRIMARY KEY IDENTITY(1,1),
+)
